@@ -1,16 +1,13 @@
-## Hi there 👋
+# 💫 About Me:
+👨‍💼 Currently I’m pursuing my B. Tech degree at Haldia Institute of Technology, specializing in Computer Science and Engineering with a focus on Data Science.<br><br>• Content Writer of Data Science Club HIT and Chess Club HIT (64 Squares)<br><br>💡 I’m deeply interested in the world of Artificial Intelligence, Data Science and how smart algorithms are shaping our future. I’ve already build a strong foundation in C programming language, C++ (Basics). Now I'm diving into Python, R. Soon I'll learn Machine Learning.<br><br>🎯 My goal is to become a Data Scientist who not only builds intelligent systems but also understands the data deeply and creates a value with real-world impact.<br><br>📘 Over the next few years, I’ll be working on:<br>• Strengthening core CS fundamentals<br>• Participating in hackathons and coding contests<br>• Building a strong GitHub portfolio<br>• Exploring AI/ML through hands-on projects.<br><br>🔍 Currently exploring: College Academics | Content Writing | DSA with C | Python | R  | Problem Solving | Programming Logic | Statistics | Probability<br><br>• Let’s connect if you’re into tech, data, AI or simply believe in learning with purpose. 🤝
 
-<!--
-**tirthamaiti001/tirthamaiti001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phoenix.09__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tirthamaiti001) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/tirthamaiti01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tirthamaiti01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tirtha.maiti.2006@outlook.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=tirthamaiti001&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=tirthamaiti001&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=tirthamaiti001&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
